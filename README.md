@@ -20,6 +20,15 @@
 Postgres
 Deno
 SvelteJS
+C++
+UnrealEngine
+Neovim
+Rider
+NixOS
+Tmux
+Zsh
+Hyprland
+Docker
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=piquelchips&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![stats](https://github-readme-stats.vercel.app/api?username=piquelchips&show_icons=true&locale=en&theme=tokyonight)
