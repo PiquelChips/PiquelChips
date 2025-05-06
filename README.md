@@ -47,16 +47,26 @@
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-plain.svg" alt="blender" width="40" height="40"/>
     </a>
-Neovim
-UnrealEngine
+    <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/neovim/neovim-original.svg" alt="blender" width="40" height="40"/>
+    </a>
+    <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rider/rider-original.svg" alt="blender" width="40" height="40"/>
+    </a>
+    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original.svg" alt="blender" width="40" height="40"/>
+    </a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
     </a>
-Rider
-Deno
-SvelteJS
+    <a href="https://deno.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/denojs/denojs-original.svg" alt="blender" width="40" height="40"/>
+    </a>
+    <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/svelte/svelte-original.svg" alt="blender" width="40" height="40"/>
+    </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
     </a>
 </p>
 
