@@ -3,7 +3,7 @@
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=piquelchips&theme=tokyonight)
 
-- I am currently working a many different projects. You can check my [personal projects](https://github.com/PiquelChips?tab=repositories) and [my organization's projects](https://github.com/orgs/PiquelOrganization/repositories) (which are also pretty much personal projects)
+- I am currently working on many different projects. You can check my [personal projects](https://github.com/PiquelChips?tab=repositories) and [my organization's projects](https://github.com/orgs/PiquelOrganization/repositories) (which are also pretty much personal projects)
 - Check out my [website](https://piquel.fr)
 
 You can contact me at [piquel@piquel.fr](mailto:piquel@piquel.fr)
