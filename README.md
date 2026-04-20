@@ -1,77 +1,25 @@
-# Hi, I'm Piquel
-## I write code for fun (to the dismay of my friends and family)
+I'm currently working on two projects.
+Both of these are very WIP and in early stages of
+develoment. I am building them out of personal
+curiosity and interest for the technology.
 
-![trophies](https://github-profile-trophy.vercel.app/?username=piquelchips&theme=tokyonight)
+Feel free to contribute if you're interested,
+they might become real production projects in
+the future if I find a proper ditection for them.
 
-- I am currently working on many different projects. You can check my [personal projects](https://github.com/PiquelChips?tab=repositories) and [my organization's projects](https://github.com/orgs/PiquelOrganization/repositories) (which are also pretty much personal projects)
-- Check out my [website](https://piquel.fr)
+You can contact me at:
+- [piquel@piquel.fr](mailto:piquel@piquel.fr)
+- **@piquel** on Discord
 
-You can contact me at [piquel@piquel.fr](mailto:piquel@piquel.fr)
+# DirkEngine
 
-## Languages:
+A pure Rust Vulkan game engine.
 
-<p align="left">
-    <a href="https://go.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original-wordmark.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="typescript" width="40" height="40"/>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-</p>
+# piquel.fr
 
-## Tools & Frameworks:
-
-<p align="left">
-    <a href="https://nixos.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nixos/nixos-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-plain.svg" alt="blender" width="40" height="40"/>
-    </a>
-    <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/neovim/neovim-original.svg" alt="blender" width="40" height="40"/>
-    </a>
-    <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rider/rider-original.svg" alt="blender" width="40" height="40"/>
-    </a>
-    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original.svg" alt="blender" width="40" height="40"/>
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-    </a>
-    <a href="https://deno.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/denojs/denojs-original.svg" alt="blender" width="40" height="40"/>
-    </a>
-    <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/svelte/svelte-original.svg" alt="blender" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-</p>
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=piquelchips&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![stats](https://github-readme-stats.vercel.app/api?username=piquelchips&show_icons=true&locale=en&theme=tokyonight)
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=piquelchips&theme=tokyonight)
+My website and everything that goes with it.
+This is essentially four repositories:
+- [piqueld]: my infrastructure/platform management tool
+- [website]: the frontend
+- [api]: the backend and API
+- [infra]: the repository with all my infrastructure configuration and stuff.
