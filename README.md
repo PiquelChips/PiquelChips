@@ -13,16 +13,11 @@ You can contact me at:
 
 # My Projects
 
-## [DirkEngine](https://github.com/PiquelChips/DirkEngine)
+## [DirkEngine](https://github.com/DirkEngine/DirkEngine)
 
 A pure Rust Vulkan game engine.
 
-## piquel.fr
+## [piqueld](https://github.com/piquel-fr/piqueld)
 
-Pretty much everything that goes with my domain ([`piquel.fr`](https://piquel.fr)).
-This project is stored in a [separate Github organisation](https://github.com/piquel-fr)
-It is essentially four repositories:
-- [piqueld](https://github.com/piquel-fr/piqueld): my infrastructure/platform management tool
-- [website](https://github.com/piquel-fr/website): the frontend
-- [api](https://github.com/piquel-fr/api): the backend and API
-- [infra](https://github.com/piquel-fr/infra): the repository with all my infrastructure configuration and stuff
+A Pure Rust infrastructure control plane.
+Similar to tools like Coolify & Dokploy but with declarative config, deep tailscale integration, and much more to come...
